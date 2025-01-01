@@ -21,5 +21,4 @@ Para garantizar un ambiente respetuoso y colaborativo, te pedimos que sigas esta
 
 Al participar, aceptas cumplir con este Código de Conducta para crear un entorno de aprendizaje seguro y enriquecedor para todos.  
 
---
-[jcarroyos](https://github.com/jcarroyos)
+[jcarroyos.art](https://jcarroyos.art)
