@@ -20,5 +20,3 @@ Para garantizar un ambiente respetuoso y colaborativo, te pedimos que sigas esta
 5. **Resolución de conflictos**: Si surgen desacuerdos, aborda los problemas de manera calmada y respetuosa, buscando soluciones colaborativas.  
 
 Al participar, aceptas cumplir con este Código de Conducta para crear un entorno de aprendizaje seguro y enriquecedor para todos.  
-
-[jcarroyos.art](https://jcarroyos.art)
